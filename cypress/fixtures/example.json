@@ -1,0 +1,9 @@
+{
+  "name": "vic",
+  "gender": "male",
+  "productName":["Blackberry","iphone X"],
+
+
+  "modifyObstructiveCode": true,
+"experimentalSourceRewriting": true
+}
